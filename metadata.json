@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VERA AI",
+  "description": "A high-fidelity real-time AI voice assistant powered by HauntX. Experience natural, low-latency conversations with advanced audio processing and visual feedback.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
